@@ -17,6 +17,10 @@ module.exports = {
     libraryTarget: 'umd',
   },
 
+  externals: {
+    moment: 'moment'
+  },
+
   resolve: {
     modules: [
       "node_modules",
