@@ -4,7 +4,8 @@
   "description": "Direct browser importable version of react-moment-proptypes",
   "main": "lib/react-moment-proptypes.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/webpack"
   },
   "author": "Caleb Morris",
   "license": "MIT",
