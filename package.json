@@ -1,6 +1,6 @@
 {
   "name": "react-moment-proptypes-browser-build",
-  "version": "0.1.1",
+  "version": "0.6.0",
   "description": "Direct browser importable version of react-moment-proptypes",
   "main": "lib/react-moment-proptypes.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "Caleb Morris",
   "license": "MIT",
   "dependencies": {
-    "react-moment-proptypes": "^1.5.0"
+    "react-moment-proptypes": "^1.6.0"
   },
   "devDependencies": {
     "webpack": "^3.10.0"
